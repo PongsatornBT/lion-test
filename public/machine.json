@@ -1,0 +1,146 @@
+[
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+    "label": "High-Speed Processor",
+    "speed": "100kh",
+    "detail": "This is Machine 1, used for processing SESHE06 material. It is equipped with advanced sensors for precise material handling and operates efficiently in high-volume production environments."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+    "label": "Efficient Cooler",
+    "speed": "95kh",
+    "detail": "This is Machine 2, used for processing SESDM21 material. It incorporates state-of-the-art cooling systems to maintain optimal operational temperatures during extended production runs."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+    "label": "Modular Workhorse",
+    "speed": "110kh",
+    "detail": "This is Machine 3, used for processing SESDG28 material. It features a modular design for easy maintenance and upgrades, ensuring minimal downtime and maximum efficiency."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+    "label": "AI-Enhanced Processor",
+    "speed": "85kh",
+    "detail": "This is Machine 4, used for processing SESHE06 material. It integrates AI-powered analytics for real-time performance monitoring and predictive maintenance scheduling."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+    "label": "Customizable Workflow Unit",
+    "speed": "120kh",
+    "detail": "This is Machine 5, used for processing SESDM21 material. It includes customizable workflow options to accommodate varying material specifications and production demands."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+    "label": "Intuitive Interface Processor",
+    "speed": "90kh",
+    "detail": "This is Machine 6, used for processing SESDG28 material. It features an intuitive user interface for easy operation and monitoring of production parameters."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+    "label": "Energy-Efficient Processor",
+    "speed": "105kh",
+    "detail": "This is Machine 7, used for processing SESHE06 material. It is designed with energy-efficient components to reduce operational costs while maintaining high productivity levels."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+    "label": "Advanced Safety Processor",
+    "speed": "100kh",
+    "detail": "This is Machine 8, used for processing SESDM21 material. It incorporates advanced safety features to ensure compliance with industry regulations and enhance workplace safety."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+    "label": "Remote Monitoring Unit",
+    "speed": "115kh",
+    "detail": "This is Machine 9, used for processing SESDG28 material. It offers remote monitoring capabilities for enhanced operational control and maintenance planning."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+    "label": "Adaptive Control Processor",
+    "speed": "80kh",
+    "detail": "This is Machine 10, used for processing SESHE06 material. It is equipped with adaptive control systems to optimize material handling based on real-time production data."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+    "label": "Automated Quality Controller",
+    "speed": "125kh",
+    "detail": "This is Machine 11, used for processing SESDM21 material. It features automated quality control mechanisms to ensure consistent product quality throughout the production cycle."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+    "label": "Smart Maintenance Processor",
+    "speed": "95kh",
+    "detail": "This is Machine 12, used for processing SESDG28 material. It incorporates smart maintenance scheduling algorithms to minimize downtime and optimize equipment lifespan."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+    "label": "Data-Driven Processor",
+    "speed": "110kh",
+    "detail": "This is Machine 13, used for processing SESHE06 material. It features integrated data analytics tools for performance optimization and trend analysis."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+    "label": "Scalable Processor",
+    "speed": "85kh",
+    "detail": "This is Machine 14, used for processing SESDM21 material. It is designed with modular components for easy scalability and adaptation to evolving production needs."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80g",
+    "label": "Speed Processor",
+    "speed": "120kh",
+    "detail": "This is Machine 15, used for processing SESDG28 material."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80g",
+    "label": "Optimized Processor",
+    "speed": "90kh",
+    "detail": "This is Machine 16, used for processing SESHE06 material."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80g",
+    "label": "SES Processor",
+    "speed": "105kh",
+    "detail": "This is Machine 17, used for processing SESDM21 material."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80g",
+    "label": "General Processor",
+    "speed": "100kh",
+    "detail": "This is Machine 18, used for processing SESDG28 material."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80g",
+    "label": "High-Efficiency Processor",
+    "speed": "115kh",
+    "detail": "This is Machine 19, used for processing SESHE06 material."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80g",
+    "label": "Versatile Processor",
+    "speed": "80kh",
+    "detail": "This is Machine 20, used for processing SESDM21 material."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80g",
+    "label": "Fast Processor",
+    "speed": "125kh",
+    "detail": "This is Machine 21, used for processing SESDG28 material."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80g",
+    "label": "Reliable Processor",
+    "speed": "95kh",
+    "detail": "This is Machine 22, used for processing SESHE06 material."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80g",
+    "label": "Advanced Processor",
+    "speed": "110kh",
+    "detail": "This is Machine 23, used for processing SESDM21 material."
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80g",
+    "label": "Flexible Processor",
+    "speed": "85kh",
+    "detail": "This is Machine 24, used for processing SESDG28 material."
+  }
+]
